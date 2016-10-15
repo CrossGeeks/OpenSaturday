@@ -1,0 +1,79 @@
+{
+  "Speakers": [
+	{
+      "Name":"Rene Olivo",
+      "Photo":"https://scontent-mia1-2.xx.fbcdn.net/v/t1.0-9/13726661_10154256580311718_4667088390996097926_n.jpg?oh=d2fc1127d34b716fd3fab05caf9b1a3a&oe=58AD55D2",
+      "Organization":"La Vida Zen"
+
+   }, {
+      "Name":"Emmanuel Toribiox",
+      "Photo":"https://scontent-mia1-2.xx.fbcdn.net/t31.0-8/13475082_10154426081819155_6404376882895850169_o.jpg",
+      "Organization":"Empresa de Odiox"
+
+   },{
+      "Name":"Charlin Agramonte",
+      "Photo":"https://scontent-mia1-2.xx.fbcdn.net/v/t1.0-9/16109_10204899902396881_6226226687995037187_n.jpg?oh=8989ac32f7f0361fd80122cd7979dc76&oe=58AB1DD4",
+      "Organization":"Crossgeek"
+
+   },{
+      "Name":"Rendy Del Rosario",
+      "Photo":"https://scontent-mia1-2.xx.fbcdn.net/v/t1.0-9/10291100_10153416822963705_1570873789970776482_n.jpg?oh=615fc3ab5983704e7f3541fd05a596be&oe=586CB5F2",
+      "Organization":"Crossgeek"
+
+   },{
+      "Name":"Victor Recio",
+      "Photo":"https://scontent-mia1-2.xx.fbcdn.net/v/t1.0-9/13061938_10208557731521367_2238288719551023488_n.jpg?oh=616c6d1ab9101f9efab21050ef2b960a&oe=589DC6B7",
+      "Organization":"Linux Dominicana"
+
+   },{
+      "Name":"Jorge Vargas",
+      "Photo":"https://scontent-mia1-2.xx.fbcdn.net/t31.0-8/10272607_10152509066478319_6563390413475611515_o.jpg",
+      "Organization":"Codemera"
+
+   }
+  ],
+	"Talks": [
+   {
+      "Title":"Palabras Bienvenida UAPA",
+      "Place":"Auditorio",
+      "Time":"8:10-8:25AM",
+      "Type":"Motivacional",
+	  "Speaker":"Victor Recio"
+
+   },{
+      "Title":"Bienvenida al Evento",
+      "Place":"Introductoria",
+      "Time":"8:30-8:45AM",
+      "Type":"Introductoria",
+	  "Speaker":"Victor Recio"
+
+   },{
+      "Title":"Creando Comunidades",
+      "Place":"Auditorio",
+      "Time":"9:05-8:45AM",
+      "Type":"Charla",
+	  "Speaker":"Jorge Vargas"
+
+   }
+	,{
+      "Title":"Realidad Virtual",
+      "Place":"Auditorio",
+      "Time":"9:05-8:45AM",
+      "Type":"Charla",
+	  "Speaker":"Jose Elias"
+
+   },{
+      "Title":"Why Xamarin forms is awesome",
+      "Place":"Auditorio",
+      "Time":"11:10-11:50AM",
+      "Type":"Charla",
+	  "Speaker":"Charlin Agramonte & Rendy Del Rosario"
+   }
+  ],
+	"Information": {
+	  "Description":"Open Saturday es un evento donde se busca promover el uso de tecnologias FOSS, mostrar a los jovenes el poder de usar Linux como sistema operativo principal de trabajo. Hablaremos de como migrar a FOSS y daremos ejemplos practicos de como hacerlo.",
+		"Lugar": "Autopista Duarte, Región del Cibao, Santiago de los Caballeros"
+	
+	}
+  
+}

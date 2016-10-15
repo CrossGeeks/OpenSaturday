@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+			 x:Class="OpenSaturdayEventApp.Pages.InformationPage"
+		     Title="Información">
+	<ContentPage.Content>
+		<StackLayout Spacing="15">
+
+		<Image Source="https://scontent-mia1-2.xx.fbcdn.net/t31.0-8/12823412_246503012356933_8518704066950026500_o.png"/>
+
+		<Frame Padding="10">
+				  <StackLayout BackgroundColor="White"
+							   Padding="10">
+				 	 <Label Text="¿Que es?" XAlign="Center" FontSize="Large"/>
+				  	 <BoxView HeightRequest="1" BackgroundColor="Gray" HorizontalOptions="FillAndExpand"/>
+					 <Label Text="{Binding Information.Description}" FontSize="12"/>
+	   		 	</StackLayout>
+		 </Frame>
+		  <Frame Padding="10">
+				  <StackLayout BackgroundColor="White"
+							   Padding="10">
+				 	 <Label Text="Lugar" XAlign="Center" FontSize="Large"/>
+				  	 <BoxView HeightRequest="1" BackgroundColor="Gray" HorizontalOptions="FillAndExpand"/>
+					 <Label Text="{Binding Information.Lugar}" FontSize="12"/>
+	   		 	</StackLayout>
+		 </Frame>
+
+
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>
